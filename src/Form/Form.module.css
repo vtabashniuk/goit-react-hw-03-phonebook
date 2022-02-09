@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  background-color: #EBD1BC;
+}
+
+.label {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.label_title {
+  margin-right: 10px;
+}
+
+input {
+    display: inline-flex;
+    flex-grow: 1;
+}

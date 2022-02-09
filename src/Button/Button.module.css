@@ -1,0 +1,19 @@
+:root {
+  --width: 100px;
+}
+
+.button {
+  width: fit-content;
+  margin: 0 auto;
+  min-width: 100px;
+  height: calc(var(--width) / 4);
+  border-radius: 5px;
+}
+
+.form {
+  background-color: #b3d4a9;
+}
+
+.contact_list {
+  background-color: #EBD1BC;
+}

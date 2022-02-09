@@ -1,0 +1,27 @@
+.contacts {
+  background-color: #FFF6E8;
+  padding: 15px;
+}
+
+.title {
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 9px;
+  border-bottom: 1px dotted #889EB8;
+}
+
+.contact_name {
+  display: inline-flex;
+  flex-grow: 1;
+  width: 30%;
+}
+.contact_number {
+  display: inline-flex;
+  flex-grow: 2;
+}
